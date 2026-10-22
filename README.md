@@ -12,6 +12,16 @@
 - 🎨 **Modern UI** — Clean and responsive interface built with Jetpack Compose and Material 3.
 - 📱 **Native Android Experience** — Designed specifically for Android devices.
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="1.jpg" width="18%" />
+  <img src="2.jpg" width="18%" />
+  <img src="3.jpg" width="18%" />
+  <img src="4.jpg" width="18%" />
+  <img src="5.jpg" width="18%" />
+</p>
+
 ## 🛠️ Tech Stack
 
 | Technology | Purpose |
